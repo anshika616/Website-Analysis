@@ -7,19 +7,29 @@ To analyze website data using Python and gain insights into user behavior and we
 ## Questions (KPIs)
 
 1- How many users visit the website and how does traffic vary over time?
+
 2- Which pages receive the highest and lowest user engagement?
+
 3- What are the key user behavior patterns (sessions, clicks, time spent)?
+
 4- From which sources does the website get the most traffic?
+
 5- Are there any noticeable trends or peaks in website visits?
+
 6- Which metrics indicate strong or weak website performance?
+
 7- What areas of the website need optimization to improve engagement?
 
 ## Process
 
 -Collected and loaded website data using Pandas.
+
 -Cleaned the data by handling missing values, removing duplicates, and correcting data types.
+
 -Performed Exploratory Data Analysis (EDA) to understand traffic, user behavior, and engagement metrics.
+
 -Created visualizations using Matplotlib/Seaborn to identify trends and patterns.
+
 -Analyzed results to answer key questions and derive actionable insights for website optimization.
 
 ## Dashboard Image <img width="1366" height="643" alt="Screenshot 2026-01-21 155047" src="https://github.com/user-attachments/assets/ce04d468-47e4-4d66-aea6-054be6a772b1" />
